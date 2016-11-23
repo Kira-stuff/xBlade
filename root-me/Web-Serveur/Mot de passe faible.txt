@@ -1,0 +1,4 @@
+En testant successivement des couples d’identifiants triviaux, on trouve rapidement le couple suivant :
+
+- nom d’utilisateur : admin
+- mot de passe : admin
